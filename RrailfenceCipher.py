@@ -1,5 +1,3 @@
-# Sonali Katakdhond RN. 43 BE-A CSE
-
 def Trans_Tech_one(text, key):
     railFence = [['\n' for i in range(len(text))]
             for j in range(key)]
